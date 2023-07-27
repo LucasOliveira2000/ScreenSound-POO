@@ -2,7 +2,7 @@
 
 Album albumDoQueen = new Album("A night at the opera");
 
-Musica musica1 = new Musica(queen, "Love of my life")
+Musica musica1 = new Musica(queen, "Love of my life") // Tipo Musica com uma variavel musica1
 {
     Duracao = 213,
     Disponivel = true,
